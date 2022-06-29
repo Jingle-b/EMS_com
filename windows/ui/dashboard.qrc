@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="mist">PythonIoT/mist_64.png</file>
+    <file alias="humid">PythonIoT/humid_128.png</file>
+    <file alias="temp">PythonIoT/temp_128.png</file>
+    <file alias="snow">PythonIoT/snow.png</file>
+    <file alias="rain">PythonIoT/rain_64.png</file>
+    <file alias="clouds">PythonIoT/cloud_64.png</file>
+    <file alias="sun">PythonIoT/sun_64.png</file>
+    <file alias="iot">PythonIoT/iot_64.png</file>
+  </qresource>
+</RCC>
