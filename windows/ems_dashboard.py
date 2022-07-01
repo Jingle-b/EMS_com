@@ -25,7 +25,7 @@ class Worker(QThread):
         super().__init__(parent)
         self.parent = parent 
         self.host = broker_url
-        self.port =  #port
+        self.port =   #port
         self.client = mqtt.Client(client_id = 'Dashboard')
     
     def onConnect(self, mqttc, obj, flags, rc):
