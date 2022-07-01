@@ -33,7 +33,7 @@ class subscriber(Thread) : #Thread를 상속받는 클래스
     def __init__(self):
         Thread.__init__(self);
         self.host = '127.0.0.1' #local host #추후 변경 #ip
-        self.port =  #port 
+        self.port =   #port 
         print('subscriber 스레드 시작')
         self.client = mqtt.Client(client_id = 'EMS101')
 

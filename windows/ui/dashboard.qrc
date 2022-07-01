@@ -1,5 +1,6 @@
 <RCC>
   <qresource prefix="/">
+    <file alias="stop">PythonIoT/stop_48.png</file>
     <file alias="green">PythonIoT/green_24.png</file>
     <file alias="alram">PythonIoT/alarm_48.png</file>
     <file alias="red">PythonIoT/red_24.png</file>
